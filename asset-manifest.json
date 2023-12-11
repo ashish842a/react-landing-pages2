@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashish842a/react-landing-pages2/static/css/main.80388418.css",
+    "main.js": "/ashish842a/react-landing-pages2/static/js/main.862bdd44.js",
+    "static/js/787.a232e324.chunk.js": "/ashish842a/react-landing-pages2/static/js/787.a232e324.chunk.js",
+    "index.html": "/ashish842a/react-landing-pages2/index.html",
+    "main.80388418.css.map": "/ashish842a/react-landing-pages2/static/css/main.80388418.css.map",
+    "main.862bdd44.js.map": "/ashish842a/react-landing-pages2/static/js/main.862bdd44.js.map",
+    "787.a232e324.chunk.js.map": "/ashish842a/react-landing-pages2/static/js/787.a232e324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80388418.css",
+    "static/js/main.862bdd44.js"
+  ]
+}
